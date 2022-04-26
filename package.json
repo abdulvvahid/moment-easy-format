@@ -1,0 +1,11 @@
+{
+  "name": "moment-easy-format",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/abdulvvahid/moment-easy-format.git",
+  "author": "Abdulvvahid>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
